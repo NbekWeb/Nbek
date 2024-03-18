@@ -1,0 +1,17 @@
+main {
+  background: rgb(44, 36, 36) url("@/assets/img/stars.png") top center;
+  height: 100vh;
+  position: relative;
+}
+
+.nav__title::after {
+  content: "";
+  display: block;
+  position: absolute;
+  bottom: -5px;
+  width: 60px; 
+  height: 4px; 
+  background-color: aqua;
+  margin: auto; 
+  margin-bottom: 10px;
+}

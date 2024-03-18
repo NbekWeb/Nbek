@@ -1,0 +1,12 @@
+@import './home.css';
+@import './about.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+    text-decoration: none;
+}
+
