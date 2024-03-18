@@ -13,6 +13,10 @@ module.exports = {
         btn:'#343a40',
         title:'#9fccce'
       },
+      fontFamily: {
+        IBM: ['IBM', 'sans'],
+        Viaoda:['Viaoda', 'sans'],
+      },
     },
   },
   plugins: [],
