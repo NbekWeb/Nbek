@@ -8,8 +8,8 @@ import skils from "@/components/skils.vue";
   <div class="w-full">
     <homeVue />
     <main>
-      <about/>
-      <skils/>
+      <about />
+      <skils />
     </main>
   </div>
 </template>
